@@ -7,7 +7,7 @@ Por agora, o projeto contém implementação de fluxo de páginas simples, mas c
 ## Tasks
 
 - Implementar fluxo de cadastro e login
-- Navegação entre telas
+- Navegação entre telas2
 - Implementar uma grade de widgets
 - Tirar fotos com uma câmera de dispositivo
 
