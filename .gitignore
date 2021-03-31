@@ -9,6 +9,10 @@
 .history
 .svn/
 
+lib/amplifyconfiguration.dart
+
+amplify/team-provider-info.json
+
 # IntelliJ related
 *.iml
 *.ipr

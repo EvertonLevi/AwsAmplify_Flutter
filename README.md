@@ -11,6 +11,7 @@ Por agora, o projeto contém implementação de fluxo de páginas simples, mas c
 - Implementar uma grade de widgets
 - Tirar fotos com uma câmera de dispositivo
 - Integração Amplify com dependências no projeto
+- Autenticação com AWS Cognito, usando Amplify
 
 ## Tech
 
@@ -23,6 +24,6 @@ Este README será atualizado sempre após nova implementação. Por agora, o pro
 
 - Criando o app Flutter ✅
 - Iniciando o Amplify ✅
-- Adicionando autenticação ⏳
-- Adicionando armazenamento ⚠
+- Adicionando autenticação ✅
+- Adicionando armazenamento ⏳
 - Adicionando análise de dados ⚠
