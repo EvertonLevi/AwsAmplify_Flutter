@@ -7,9 +7,10 @@ Por agora, o projeto contém implementação de fluxo de páginas simples, mas c
 ## Tasks
 
 - Implementar fluxo de cadastro e login
-- Navegação entre telas2
+- Navegação entre telas
 - Implementar uma grade de widgets
 - Tirar fotos com uma câmera de dispositivo
+- Integração Amplify com dependências no projeto
 
 ## Tech
 
@@ -21,7 +22,7 @@ Este README será atualizado sempre após nova implementação. Por agora, o pro
 ## Lista de features/módulos
 
 - Criando o app Flutter ✅
-- Iniciando o Amplify ⏳
-- Adicionando autenticação ⚠
+- Iniciando o Amplify ✅
+- Adicionando autenticação ⏳
 - Adicionando armazenamento ⚠
 - Adicionando análise de dados ⚠
